@@ -1,10 +1,11 @@
 package Valiram.SerenityDemo;
 
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 
 import org.testng.annotations.BeforeMethod;
@@ -12,6 +13,7 @@ import org.testng.annotations.BeforeMethod;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
 import io.appium.java_client.service.local.AppiumDriverLocalService;
+import io.appium.java_client.service.local.AppiumServiceBuilder;
 
 
 public class BaseTest {
@@ -22,9 +24,9 @@ public class BaseTest {
 	@BeforeMethod
 	public void ConfigureAppium() throws MalformedURLException
 	{
-//		service = new AppiumServiceBuilder().withAppiumJS(new File("\\Users\\User\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"))
-//				.withIPAddress("127.0.0.1").usingPort(4723).build();
-//		service.start();		
+		service = new AppiumServiceBuilder().withAppiumJS(new File("\\Users\\User\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"))
+				.withIPAddress("127.0.0.1").usingPort(4723).build();
+		service.start();		
 		
 		UiAutomator2Options options = new UiAutomator2Options();
 		options.setDeviceName("Pixel 7 Pro");
@@ -37,6 +39,11 @@ public class BaseTest {
 	public void tearDown()
 	{
 		driver.quit();
-//		service.stop();
+	}
+	
+	@AfterClass
+	public void tearEnd()
+	{
+		service.stop();
 	}
 }
