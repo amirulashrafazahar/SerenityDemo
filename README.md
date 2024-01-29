@@ -39,7 +39,7 @@ go project --> properties --> location
 
 open cmd --> cd <location>  --> run mvn test -PRegression
 
-## Example screenshot of output running in cmd and reporting attached in email
+## Example screenshot of output running in cmd and reporting attached in email.
 
 
 
