@@ -1,6 +1,6 @@
 # Serenity Demo
 
-This project cover 3 test scenarios of application login, new work log and using work log filter automated using APPIUM with Java 
+This automation project cover 3 test scenarios of application login, new work log and using work log filter using APPIUM with Java with total of 13 test cases
 
 ## Getting Started
 
@@ -34,6 +34,8 @@ npm install -g appium
 ## Running the tests
 
 Trigger cmd in terminal using maven
+
+Note that appium server also has been automated at the start of execution
 
 go project --> properties --> location
 
