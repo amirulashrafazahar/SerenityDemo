@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T17:10:47 MYT" name="Suite" finished-at="2024-01-29T17:14:59 MYT" duration-ms="252216">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T17:10:47 MYT" name="Filter" finished-at="2024-01-29T17:11:54 MYT" duration-ms="67064">
+      <class name="Valiram.SerenityDemo.Filter">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:10:47 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:10:56 MYT" duration-ms="9054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="customerFilter()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:10:56 MYT" name="customerFilter" finished-at="2024-01-29T17:11:10 MYT" duration-ms="13924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:10 MYT" name="tearDown" finished-at="2024-01-29T17:11:10 MYT" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:10 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:11:17 MYT" duration-ms="7404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="monthFilter()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:17 MYT" name="monthFilter" finished-at="2024-01-29T17:11:31 MYT" duration-ms="13982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:31 MYT" name="tearDown" finished-at="2024-01-29T17:11:32 MYT" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:32 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:11:40 MYT" duration-ms="7833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="projectFilter()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:40 MYT" name="projectFilter" finished-at="2024-01-29T17:11:53 MYT" duration-ms="13464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- projectFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Filter@6b88ca8c]" started-at="2024-01-29T17:11:53 MYT" name="tearDown" finished-at="2024-01-29T17:11:54 MYT" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Valiram.SerenityDemo.Filter -->
+    </test> <!-- Filter -->
+    <test started-at="2024-01-29T17:11:54 MYT" name="Login" finished-at="2024-01-29T17:13:38 MYT" duration-ms="103795">
+      <class name="Valiram.SerenityDemo.Login">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:11:54 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:12:02 MYT" duration-ms="7813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="caseInsensitivityCheckTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:02 MYT" name="caseInsensitivityCheckTest" finished-at="2024-01-29T17:12:10 MYT" duration-ms="8810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseInsensitivityCheckTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:10 MYT" name="tearDown" finished-at="2024-01-29T17:12:11 MYT" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:11 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:12:19 MYT" duration-ms="8253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="emptyFieldsTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:19 MYT" name="emptyFieldsTest" finished-at="2024-01-29T17:12:27 MYT" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyFieldsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:27 MYT" name="tearDown" finished-at="2024-01-29T17:12:28 MYT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:28 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:12:36 MYT" duration-ms="8093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="invalidPasswordTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:36 MYT" name="invalidPasswordTest" finished-at="2024-01-29T17:12:45 MYT" duration-ms="9182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:45 MYT" name="tearDown" finished-at="2024-01-29T17:12:46 MYT" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:46 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:12:54 MYT" duration-ms="8493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="invalidUsernameTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:12:54 MYT" name="invalidUsernameTest" finished-at="2024-01-29T17:13:03 MYT" duration-ms="8660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsernameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:03 MYT" name="tearDown" finished-at="2024-01-29T17:13:03 MYT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:03 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:13:11 MYT" duration-ms="8281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="trimmingSpacesInCredentialsTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:11 MYT" name="trimmingSpacesInCredentialsTest" finished-at="2024-01-29T17:13:20 MYT" duration-ms="8405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trimmingSpacesInCredentialsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:20 MYT" name="tearDown" finished-at="2024-01-29T17:13:20 MYT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:20 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:13:29 MYT" duration-ms="8482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="validLoginTest()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:29 MYT" name="validLoginTest" finished-at="2024-01-29T17:13:37 MYT" duration-ms="8244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.Login@18a136ac]" started-at="2024-01-29T17:13:37 MYT" name="tearDown" finished-at="2024-01-29T17:13:38 MYT" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Valiram.SerenityDemo.Login -->
+    </test> <!-- Login -->
+    <test started-at="2024-01-29T17:13:38 MYT" name="WorkLog" finished-at="2024-01-29T17:14:59 MYT" duration-ms="81131">
+      <class name="Valiram.SerenityDemo.WorkLog">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:13:38 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:13:45 MYT" duration-ms="7737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="VerifyAddDescription()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:13:45 MYT" name="VerifyAddDescription" finished-at="2024-01-29T17:13:58 MYT" duration-ms="12493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddDescription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:13:58 MYT" name="tearDown" finished-at="2024-01-29T17:13:58 MYT" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:13:58 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:14:06 MYT" duration-ms="8117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="VerifyProjectSelection()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:06 MYT" name="VerifyProjectSelection" finished-at="2024-01-29T17:14:18 MYT" duration-ms="11083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProjectSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:18 MYT" name="tearDown" finished-at="2024-01-29T17:14:18 MYT" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:18 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:14:27 MYT" duration-ms="8518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="VerifyTagSelection()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:27 MYT" name="VerifyTagSelection" finished-at="2024-01-29T17:14:38 MYT" duration-ms="11873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTagSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:38 MYT" name="tearDown" finished-at="2024-01-29T17:14:39 MYT" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:39 MYT" name="ConfigureAppium" finished-at="2024-01-29T17:14:47 MYT" duration-ms="8321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="newWorkLog()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:47 MYT" name="newWorkLog" finished-at="2024-01-29T17:14:58 MYT" duration-ms="10982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newWorkLog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Valiram.SerenityDemo.WorkLog@134d26af]" started-at="2024-01-29T17:14:58 MYT" name="tearDown" finished-at="2024-01-29T17:14:59 MYT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Valiram.SerenityDemo.WorkLog -->
+    </test> <!-- WorkLog -->
+  </suite> <!-- Suite -->
+</testng-results>
